@@ -1,0 +1,11 @@
+{
+  "name": "apiCorreio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/felcross/apiCorreio.git",
+  "author": "felcross <feljava32@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.0.1"
+  }
+}
